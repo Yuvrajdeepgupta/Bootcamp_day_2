@@ -1,0 +1,87 @@
+.container
+{
+    width: 600px;
+    height: 600px;
+    border: 2px solid rgb(163, 159, 159);
+    border-radius: 20px;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+h1
+{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+#img1
+{
+    width: 100%;
+    height: 70%;
+    border-radius: 20px;
+    object-fit: cover;
+    
+}
+
+.inner
+{
+    position: relative;
+    bottom: 40px;
+    width: 14%;
+}
+
+#img2
+{
+    width: 100%;
+    height: 100%;
+}
+
+#pid
+{
+    padding-left: 100px;
+    margin-bottom: 7px;
+}
+
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    color: gray;
+    font-size: 17px;
+}
+
+#pid1
+{
+    font-size: 20px;
+}
+
+.inner3
+{
+    position: relative;
+}
+
+.inner4
+{
+    position: absolute;
+    background-color: rgb(1, 117, 155);
+    color: whitesmoke;
+    bottom: 30px;
+    width: 200px;
+    height: 20px;
+    padding-top: 3px;
+}
+
+.inner5
+{
+    position: absolute;
+    background-color: white;
+    color: black;
+    bottom: 30px;
+    right: 20px;
+    width: 50px;
+    border-radius: 5px;
+}
